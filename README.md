@@ -9,5 +9,6 @@ Repositories are organised as follows
 ||Thesis Chapter 3|https://github.com/BradleyAWard/Thesis-Chapter-3-Dust-Mass-Functions|
 ||Thesis Chapter 4|https://github.com/BradleyAWard/Thesis-Chapter-4-Beta-Evolution|
 ||Thesis Chapter 5|https://github.com/BradleyAWard/Thesis-Chapter-5-Radio-Sources|
-|Learning and Development|Power BI|https://github.com/BradleyAWard/Learning-Microsoft-Power-BI|
+|Learning and Development|Python|https://github.com/BradleyAWard/Introducing-Python|
+||Power BI|https://github.com/BradleyAWard/Learning-Microsoft-Power-BI|
 ||R|https://github.com/BradleyAWard/R-for-Data-Science|

@@ -1,6 +1,9 @@
 ## Contents of Profile
 
+Repositories are organised as follows
+
+|Topic|Repository|
 |--|--|
-|Something|Something else|
+|Thesis|Hello|
 |--|--|
-|123|456|
+|Learning and Development|Hello 2|

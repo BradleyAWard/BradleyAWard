@@ -5,7 +5,7 @@ Repositories are organised as follows
 ### PhD Thesis
 Thesis TeX Files - https://github.com/BradleyAWard/Thesis
 
-**|Chapter|Description|Repository|**
+|Chapter|Description|Repository|
 |--|--|--|
 | Chapter 2 || https://github.com/BradleyAWard/Thesis-Chapter-2-HATLAS |
 | Chapter 3 || https://github.com/BradleyAWard/Thesis-Chapter-3-Dust-Mass-Functions |

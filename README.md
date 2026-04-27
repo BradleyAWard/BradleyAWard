@@ -12,7 +12,8 @@ Thesis TeX Files - https://github.com/BradleyAWard/Thesis
 | Chapter 4 || https://github.com/BradleyAWard/Thesis-Chapter-4-Beta-Evolution |
 | Chapter 5 || https://github.com/BradleyAWard/Thesis-Chapter-5-Radio-Sources |
 
-Learning and Development
+
+### Learning and Development
 
 | Topic | Software/Tools | Repository |
 | -- | -- | -- |

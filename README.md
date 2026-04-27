@@ -17,6 +17,6 @@ Thesis TeX Files - https://github.com/BradleyAWard/Thesis
 
 | Topic | Software/Tools | Repository |
 | -- | -- | -- |
-| Introducing Pythong | Python | https://github.com/BradleyAWard/Introducing-Python |
+| Introducing Python | Python | https://github.com/BradleyAWard/Introducing-Python |
 | R for Data Science | R | https://github.com/BradleyAWard/R-for-Data-Science
 | Learning Microsoft Power BI | Power BI | https://github.com/BradleyAWard/Learning-Microsoft-Power-BI |

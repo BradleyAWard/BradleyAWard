@@ -20,4 +20,4 @@ Thesis TeX Files - https://github.com/BradleyAWard/Thesis
 | Introducing Python | Python | https://github.com/BradleyAWard/Introducing-Python |
 | R for Data Science | R | https://github.com/BradleyAWard/R-for-Data-Science
 | Learning Microsoft Power BI | Power BI | https://github.com/BradleyAWard/Learning-Microsoft-Power-BI |
-| Statistics | Resources | |
+| Statistics | Resources | https://github.com/BradleyAWard/Statistics-Resources|

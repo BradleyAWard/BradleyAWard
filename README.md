@@ -22,4 +22,6 @@ Thesis TeX Files - https://github.com/BradleyAWard/Thesis
 | Learning Microsoft Power BI | Power BI | https://github.com/BradleyAWard/Learning-Microsoft-Power-BI |
 
 ### Resources
+| Topic | Repository|
+| -- | -- |
 | Statistics | https://github.com/BradleyAWard/Statistics-Resources|
